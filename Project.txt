@@ -1,0 +1,24 @@
+FAILURE IN OUR CURRENT PROJECT(Desktop):-
+- Target audience for our project is 1 user.
+- Our project is completely offline.
+
+OUR FUTURE PLAN FOR IMPLEMENTATION:-
+
+Client side:                  Server side:
+-Html                         -Framework is not fixed.
+-Css
+-Js
+-BootStock
+-React
+
+->Login Page.
+->After login, the user can create his own online shop.
+->The user can add his inventories, after creating a shop.
+->The user will receive notifications if particular quantity of inventories reaches threshold.
+
+SOPHISTICATED NEEDS:
+->Time series Analysis of Sales.
+->Once the quantity of particular inventory is under threshold level,it needs to book automatically.
+
+VERY SOPHISTICATED NEEDS:
+->New communication channel with customers.
